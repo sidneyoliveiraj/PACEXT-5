@@ -74,9 +74,70 @@ Centralização de Segurança: Criptografia e controle de acesso ficam concentra
 
 Facilidade de Trabalho em Equipe: Dividir o projeto em front-end, back-end e banco de dados permite que diferentes membros atuem em paralelo, mantendo boa comunicação via APIs.
 
+<br><br>
+
+Responsabilidade de cada integrante no projeto :
+
+<br>
+
+Luis Felipe Fachini<br>
+Função: Gerente de Projeto<br>
+Responsabilidades:<br>
+Coordenar as atividades da equipe<br>
+Garantir o cumprimento dos prazos<br>
+Fazer a ponte entre a equipe e a esteticista (cliente)<br>
+Documentar requisitos e mudanças do projeto<br>
+
+<br><br>
 
 
+José Lucas A. Fonseca<br>
+Função: Desenvolvedor Front-end<br>
+Responsabilidades:<br>
+Projetar a interface do usuário<br>
+Implementar elementos visuais responsivos<br>
+Garantir boa experiência em dispositivos móveis<br>
+Integrar com APIs de redes sociais<br>
 
 
+<br><br>
 
+Sidney Cardoso de Oliveira Junior<br>
+Função: Desenvolvedor Back-end<br>
+Responsabilidades:<br>
+Desenvolver a estrutura do servidor<br>
+Implementar sistema de autenticação<br>
+Desenvolver APIs para comunicação front-end/back-end<br>
+Configurar banco de dados<br>
+
+<br><br>
+
+
+Eder Duarte Zerek<br>
+Função: UX/UI Designer<br>
+Responsabilidades:<br>
+Criar wireframes e protótipos<br>
+Projetar identidade visual alinhada com a marca da esteticista<br>
+Garantir usabilidade para diferentes públicos<br>
+Realizar testes de usabilidade<br>
+
+<br><br>
+
+Max Buzzarello Maul<br>
+Função: UX/UI Designer<br>
+Responsabilidades:<br>
+Criar wireframes e protótipos<br>
+Projetar identidade visual alinhada com a marca da esteticista<br>
+Garantir usabilidade para diferentes públicos<br>
+Realizar testes de usabilidade<br>
+
+<br><br>
+
+Leonardo Henrique Nascimento<br>
+Função: Tester / Quality Assurance<br>
+Responsabilidades:<br>
+Desenvolver e executar planos de teste<br>
+Identificar e documentar bugs<br>
+Verificar conformidade com requisitos<br>
+Testar experiência do usuário e performance<br>
 
